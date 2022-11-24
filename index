@@ -1,6 +1,51 @@
-< td>7:10</td>
-< td>matematica</td>
-< td>quimica</td>
-< td>ingles</td>
-< td>geografia</td>
-< td>lingua portuguesa</td>
+table>
+                          <tr>
+                                 <td>Horario</td>
+                                 <td>segunda</td>
+                                 <td>terça</td>
+                                 <td>quarta</td>
+                                 <td>quinta</td>
+                                 <td>sexta</td>
+                          </tr>
+                     
+                      <tr>
+                                 <td>7:10</td>
+                                 <td>matematica</td>
+                                 <td>ed. fisica</td>
+                                 <td>portugues</td>
+                                 <td>historia</td>
+                                 <td>biologia</td>
+                          </tr>
+                      <tr>
+                                 <td>8:00</td>
+                                 <td>quimica</td>
+                                 <td>proj. de vida</td>
+                                 <td>ed. financeira</td>
+                                 <td>portugues</td>
+                                 <td>proj. de vida</td>
+                          </tr>
+                      <tr>
+                                 <td>8:50</td>
+                                 <td>arte</td>
+                                 <td>filosofia</td>
+                                 <td>proj. de vida</td>
+                                 <td>filosofia</td>
+                                 <td>ed. fisica</td>
+                          </tr>
+                    <tr>
+                                 <td>9:35</td>
+                                 <td>intervalo</td>
+                                 <td>intervalo</td>
+                                 <td>intervalo</td>
+                                 <td>intervalo</td>
+                                 <td>intervalo</td>
+                          </tr>
+                        <tr>
+                                 <td>9:55</td>
+                                 <td>matematica</td>
+                                 <td>geografia</td>
+                                 <td>ingles</td>
+                                 <td>pens. comp.</td>
+                                 <td>fisica</td>
+                          </tr>
+
